@@ -25,3 +25,8 @@
 .list-group-item:hover {
 	background-color: #eee;
 }
+
+.overflow {
+	max-height: 800px;
+	overflow: scroll;
+}
